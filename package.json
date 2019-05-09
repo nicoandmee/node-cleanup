@@ -1,5 +1,5 @@
 {
-  "name": "node-cleanup",
+  "name": "@nicomee/node-cleanup",
   "version": "2.1.2",
   "description": "installs custom cleanup handlers that run on exiting node",
   "main": "node-cleanup.js",
